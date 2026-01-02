@@ -1,0 +1,153 @@
+Generate a txt file and ever member of the group should add his favorite song in this format. This file should be saved in this folder.
+--- Josuee 
+--- Choque
+--- lemon tree
+----"I'm sittin' here in the boring room
+It's just another rainy Sunday afternoon
+I'm wastin' my time, I got nothin' to do
+I'm hangin' around, I'm waitin' for you
+But nothing ever happens
+I'm drivin' around in my car
+I'm drivin' too fast, I'm drivin' too far
+I'd like to change my point of view
+I feel so lonely, I'm waitin' for you
+But nothing ever happens and I wonder
+I wonder how, I wonder why
+Yesterday you told me 'bout the blue, blue sky
+And all that I can see is just another lemon tree
+I'm turnin' my head up and down
+I'm turnin', turnin', turnin', turnin', turnin' around
+And all that I can see is just another lemon tree
+dah, dah-dah-dah-dah-dah, di-dah-dah
+Dah-dah-dah-dah-dah, di-dah-dah
+Dah-di-di-dah (dah-di-di-dah)
+(Sing) dah, dah-dah-dah-dah-dah, di-dah-dah
+Dah-dah-dah-dah-dah, di-dah-dah
+Dah-di-di-dah (dah-di-di-dah)
+I'm sittin' here, I missed the power
+I'd like to go out, takin' a shower
+But there's a heavy cloud inside my head
+I feel so tired, put myself into bed
+Well, nothing ever happens and I wonder
+I wonder how, I wonder why
+Yesterday you told me 'bout the blue, blue sky
+And all that I can see is just another lemon tree
+I'm turnin' my head up and down
+I'm turnin', turnin', turnin', turnin', turnin' around
+And all that I can see is just another lemon tree
+And I wonder (wonder, wonder, wonder)
+dah, dah-dah-dah-dah-dah, di-dah-dah
+Dah-dah-dah-dah-dah, di-dah-dah
+Dah-di-di-dah
+(Sing) dah, dah-dah-dah-dah-dah, di-dah-dah
+Dah-dah-dah-dah-dah, di-dah-dah
+Dah-di-di-dah"
+\n\n
+--- Andrea
+--- León
+--- Roman Holiday
+----"Baby, come on get stoned, get stoned
+Get inside it, inside it, inside it, inside
+Get along, get along, get alone, get alone, yeah
+Heard about the week on the Dalymount seat, yeah
+Baby, come on 'fore the going gets gone
+Heard you lied to the Major, won't be long
+Well I wish upon a wedding for a picture in the star
+When they knock for ya don't forget who you are
+Skinty Fia
+Baby, come on whose side are you on?
+I don't wanna see the queen
+I already sing her song
+While they're snuffing out hopes and they're blotting out suns
+They claim to know the form in which genius comes, yeah
+Baby, come on get your high heels on
+It's the body is cold
+It's the course is run
+What artless living all this soft pain thrills
+What calamities usher all our brilliance to the hills
+Can you feel it?
+Baby, come on get stoned, get stoned
+Get inside it, inside it, inside it, inside
+Get along, get along, get alone, get alone, yeah
+Was it the weed or the moment that stoned ya?
+Baby, come on get the hourglass on
+I will dart into town, no I won't be long
+If the talk's getting cold, we'll be chancing none
+Well you know what I'm saying
+Our day will come
+Can you feel it?
+Won't be long
+Can you feel it?"
+\n\n
+--- Luis
+--- Enrique
+--- passion fruit
+----"Hold on, hold on, fuck that
+Fuck that shit
+Hold on, I got to start this motherfuckin' record over again
+Wait a minute
+Fuck that shit
+Still on this motherfuckin' record
+I'ma play this motherfucka for y'all
+Ayy, y'all get some more drinks goin' on
+I'll sound a whole lot better
+Listen
+Seeing you got ritualistic
+Cleansin' my soul of addiction for now
+'Cause I'm fallin' apart
+Yeah, tension
+Between us just like picket fences
+You got issues that I won't mention for now
+'Cause we're fallin' apart
+Passionate from miles away
+Passive with the things you say
+Passin' up on my old ways
+I can't blame you, no, no
+Passionate from miles away
+Passive with the things you say
+Passin' up on my old ways
+I can't blame you, no, no
+Listen
+Harder buildin' trust from a distance
+I think we should rule out commitment for now
+'Cause we're fallin' apart
+Leavin'
+You're just doing that to get even
+Don't pick up the pieces, just leave it for now
+They keep fallin' apart
+Passionate from miles away
+Passive with the things you say
+Passin' up on my old ways
+I can't blame you, no, no
+Passionate from miles away
+Passive with the things you say
+Passin' up on my old ways
+I can't blame you, no, no
+Um, trying to think of the right thing to say"
+\n\n
+--- Andre
+--- Gomez
+--- Adiós
+----"Suspiraban lo mismo, los dos
+Y hoy, son parte de una lluvia lejos
+No te confundas, no sirve el rencor
+Son espasmos después del adiós
+Pones canciones tristes para sentirte mejor
+Tu esencia es más visible
+Del mismo dolor
+Vendrá un nuevo amanecer, uh-uh-uh-uh-uh
+Tal vez, colmaban la necesidad
+Pero, hay vacíos que no pueden llenar
+No conocían la profundidad
+Hasta que un día no dio para más
+Quedabas esperando ecos que no volverán
+Flotando entre rechazos
+Del mismo dolor
+Vendrá un nuevo amanecer
+Separarse de la especie por algo superior
+No es soberbia, es amor
+No es soberbia, es amor
+Poder decir adiós
+Es crecer, uh-uh-uh-uh-uh"
+
+
