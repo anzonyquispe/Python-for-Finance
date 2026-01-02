@@ -1,0 +1,49 @@
+Generate a txt file and ever member of the group should add his favorite song in this format. This file should be saved in this folder.
+--- Josuee
+--- Choque
+--- Lemon Tree	
+----"I'm sittin' here in the boring room
+It's just another rainy Sunday afternoon
+I'm wastin' my time, I got nothin' to do
+I'm hangin' around, I'm waitin' for you
+But nothing ever happens
+I'm drivin' around in my car
+I'm drivin' too fast, I'm drivin' too far
+I'd like to change my point of view
+I feel so lonely, I'm waitin' for you
+But nothing ever happens and I wonder
+I wonder how, I wonder why
+Yesterday you told me 'bout the blue, blue sky
+And all that I can see is just another lemon tree
+I'm turnin' my head up and down
+I'm turnin', turnin', turnin', turnin', turnin' around
+And all that I can see is just another lemon tree
+dah, dah-dah-dah-dah-dah, di-dah-dah
+Dah-dah-dah-dah-dah, di-dah-dah
+Dah-di-di-dah (dah-di-di-dah)
+(Sing) dah, dah-dah-dah-dah-dah, di-dah-dah
+Dah-dah-dah-dah-dah, di-dah-dah
+Dah-di-di-dah (dah-di-di-dah)
+I'm sittin' here, I missed the power
+I'd like to go out, takin' a shower
+But there's a heavy cloud inside my head
+I feel so tired, put myself into bed
+Well, nothing ever happens and I wonder
+I wonder how, I wonder why
+Yesterday you told me 'bout the blue, blue sky
+And all that I can see is just another lemon tree
+I'm turnin' my head up and down
+I'm turnin', turnin', turnin', turnin', turnin' around
+And all that I can see is just another lemon tree
+And I wonder (wonder, wonder, wonder)
+dah, dah-dah-dah-dah-dah, di-dah-dah
+Dah-dah-dah-dah-dah, di-dah-dah
+Dah-di-di-dah
+(Sing) dah, dah-dah-dah-dah-dah, di-dah-dah
+Dah-dah-dah-dah-dah, di-dah-dah
+Dah-di-di-dah"
+\n\n
+--- Name
+--- Last Name
+--- Song Name
+----"Lyrics"
