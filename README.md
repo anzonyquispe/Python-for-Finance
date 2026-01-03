@@ -56,9 +56,9 @@ The evaluation consists of a final work at the end of the course.
 |---|---|---|---|---|---
 |1|01/02/2026|Friday|09:00-12:00| Github - Basic Objects| <ul>  <li>Installation</li>   <li>Branches</li>   <li>Repository </li> <li>Lists</li>   <li>Dictionaries</li>   <li>NumPy </li> <li>1st Assignmnet </li>  </ul>   
 |2|01/05/2025|Monday|09:00-12:00| Pandas-Polars-Pyspark | <ul>  <li> Series </li>   <li>Indexing</li>   <li>Importing Data </li> <li> Data wrangling </li> <li> Time Series </li> <li>2nd Assignmnet </li> </ul>      
-|2|01/07/2026|Wednesday|09:00-12:00 | Control Structures, Functions and Classes| <ul>  <li> If condition </li>   <li> For loop</li>   <li> While Loop</li> <li> Function Definitions </li>   <li> *args and **kwwargs </li>   <li> \_init_</li> <li> Attributes and Methods</li> </ul>    
-|2|01/09/2026|Friday|09:00-12:00| Visualization| <ul>  <li>Seasborn</li>   <li>Matplotlib</li> <li>3th Assignmnet </li></ul>   
-|3|01/12/2026|Monday|09:00-12:00| Ratios and Portfolio Optimization| <ul>  <li> Ratios </li>   <li> Yahoo Data </li>   </ul> 
+|3|01/07/2026|Wednesday|09:00-12:00 | Control Structures, Functions and Classes| <ul>  <li> If condition </li>   <li> For loop</li>   <li> While Loop</li> <li> Function Definitions </li>   <li> *args and **kwwargs </li>   <li> \_init_</li> <li> Attributes and Methods</li> </ul>    
+|4|01/09/2026|Friday|09:00-12:00| Visualization| <ul>  <li>Seasborn</li>   <li>Matplotlib</li> <li>3th Assignmnet </li></ul>   
+|5|01/12/2026|Monday|09:00-12:00| Ratios and Portfolio Optimization| <ul>  <li> Ratios </li>   <li> Yahoo Data </li>   </ul> 
 
 
 ## X. Website
