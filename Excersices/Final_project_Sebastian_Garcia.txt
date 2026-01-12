@@ -1,0 +1,5 @@
+### GitHub Link
+https://github.com/SebGarcia-dev/New-website.git
+
+### Website Link
+https://sebgarcia-dev.github.io/New-website/#resume
